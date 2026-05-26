@@ -1,0 +1,6 @@
+{
+  "name": "Our Monthiversary Website",
+  "description": "A beautiful 2-month anniversary digital scrapbook and memory book featuring sweet letters, interactive pages, floating photos, and a custom note collector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
